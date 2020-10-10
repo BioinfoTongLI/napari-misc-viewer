@@ -1,0 +1,10 @@
+site_name: napari-misc-viewer
+site_description: Load .npy and .h5 for visualization
+site_author: Tong LI
+
+theme: readthedocs
+
+repo_url: https://github.com/TongLIBioinfo/napari-misc-viewer
+
+pages:
+- Home: index.md
